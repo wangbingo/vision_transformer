@@ -49,7 +49,7 @@ DATASET_PRESETS = {
         'test': 'validation',
         'resize': 384,
         'crop': 384,
-        'total_steps': 20_000,
+        'total_steps': 1_000,        ## 20_000 -> 1_000
     },
 }
 
